@@ -39,5 +39,6 @@ def simul(game, size) -> int:
     print(f'Наш алгоритм угадывает число в среднем за {score} попыток')
     return score
 
-if __name__=='__main__':
-    simul(game,1000)
+simul(game,1000)
+# if __name__=='__main__':
+#     simul(game,1000)
