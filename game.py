@@ -6,7 +6,7 @@ count = 0 #считаем попытки
 lst = [] #уже загаданные числа
 while True:
     count+=1
-    predict = int(input("Введите натуральное ичсло от 1 до 100: "))
+    predict = int(input("Введите натуральное число от 1 до 100: "))
     
     if predict > number:
         lst.append(predict)
@@ -25,4 +25,4 @@ while True:
         break
     
 
-
+x=1
