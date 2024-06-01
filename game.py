@@ -24,5 +24,3 @@ while True:
         print('Поздравляю с победой!')
         break
     
-
-x=1

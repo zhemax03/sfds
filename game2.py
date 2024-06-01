@@ -40,6 +40,5 @@ def simul(game, size) -> int:
     return score
 
 simul(game,1000)
-x=1
 # if __name__=='__main__':
 #     simul(game,1000)
