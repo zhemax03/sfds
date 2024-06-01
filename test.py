@@ -9,4 +9,4 @@ def lst_flatten(lst: list) -> list:
             lst1.extend(lst_flatten(x))
     return lst1
 
-lst_flatten(lst)
+print(lst_flatten(lst))
