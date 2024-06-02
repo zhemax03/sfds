@@ -1,11 +1,11 @@
 # Оглавление
 
-1. [Описание проекта](https://github.com/zhemax03/sfds/tree/main/Project_0/readme.md#Описание-проекта)
-2. [Какой кейс решаем](https://github.com/zhemax03/sfds/tree/main/Project_0/readme.md#Какой-кейс-решаем)
-3. [Краткая информация о данных](https://github.com/zhemax03/sfds/tree/main/Project_0/readme.md#Информация-о-данных)
-4. [Этапы работы на проектом](https://github.com/zhemax03/sfds/tree/main/Project_0/readme.md#Этапы-работы-над-проектом)
-5. [Результаты](https://github.com/zhemax03/sfds/tree/main/Project_0/readme.md#Результаты)
-6. [Выводы](https://github.com/zhemax03/sfds/tree/main/Project_0/readme.md#Выводы)
+1. [Описание проекта](.readme.md#Описание-проекта)
+2. [Какой кейс решаем](.readme.md#Какой-кейс-решаем)
+3. [Краткая информация о данных](.readme.md#Информация-о-данных)
+4. [Этапы работы на проектом](.readme.md#Этапы-работы-над-проектом)
+5. [Результаты](.readme.md#Результаты)
+6. [Выводы](.readme.md#Выводы)
 
 ## Описание проекта
 
@@ -40,5 +40,5 @@
 
 Питоновский рандомизатор работает "честно" в рамках поставленной задачи
 
-[К оглавлению](https://github.com/zhemax03/sfds/tree/main/Project_0/readme.md#Оглавление)
+[К оглавлению](.readme.md#Оглавление)
 
